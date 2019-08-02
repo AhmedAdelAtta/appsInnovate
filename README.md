@@ -3,10 +3,10 @@
 # There are 4 filters:
 
 1- Hotel 
-[Text Input that can left empty]
+[Text Input that can be left empty]
 
 2- City
-[Text Input that can left empty]
+[Text Input that can be left empty]
 
 3- Price
 [Price slider of minimum and maximum range] - [Cannot be empty]
