@@ -9,9 +9,9 @@
 [Text Input that can be left empty]
 
 3- Price
-[Price slider of minimum and maximum range] - [Cannot be empty]
+[Price Slider of minimum and maximum range] - [Cannot be empty]
 
 4- Date
-[Date Picker pop] - [Cannot be empty]
+[Date Picker Modal] - [Cannot be empty]
 
 Hit search and wait for the results
